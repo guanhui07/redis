@@ -9,7 +9,7 @@ Swoole Redis连接池 自动归还 基础的Redis分布式 互斥锁
     如果你不是出于学习，蛋疼的情况下，没有理由使用本类！
     
 ## 安装
-`composer require yi-tin/redis`
+`composer require DcrRedis/redis`
 
 ## 使用
 
