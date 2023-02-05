@@ -9,7 +9,7 @@ Swoole Redis连接池 自动归还
     swoole 的很多框架 都有实现 什么Redis代理的 你连进程隔离都不用管自动维护了但是好像都不支持完全协程化的写法 
     
 ## 安装
-`composer require DcrRedis/redis`
+`composer require guanhui07/redis`
 
 ## 使用
 
