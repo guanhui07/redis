@@ -14,7 +14,7 @@ Swoole Redis连接池 自动归还
 
 ## 使用
 
-
+```php
 
 
     \DcrRedis\TinRedis::initialize((new RedisConfig())
@@ -59,6 +59,7 @@ Swoole Redis连接池 自动归还
         echo '请求二:退出成功'.PHP_EOL;
     });
     });
+    ```
 ## Todo
     读写锁
     延时队列
