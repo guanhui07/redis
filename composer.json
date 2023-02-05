@@ -1,0 +1,16 @@
+{
+  "name": "guanhui07/redis",
+  "type": "library",
+  "license": "MIT",
+  "description": "swoole-redis-pool",
+  "autoload": {
+    "psr-4": {
+      "DcrRedis\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4 || ^8.0",
+    "swoole/ide-helper": "@dev",
+    "ext-redis": "*"
+  }
+}
