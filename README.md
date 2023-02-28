@@ -1,4 +1,4 @@
-# DcrRedis-redis
+# dcr-redis
 Swoole Redis连接池 自动归还 
 基础的Redis分布式 互斥锁
 
